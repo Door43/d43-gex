@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gex:home|Door43 (gex)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gex|d43-gex repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gex/archive/master.zip|d43-gex.zip]]
+
+**Recent Changes**
+{{changes>ns = gex}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gex|Ethnologue data]]
+
